@@ -14773,20 +14773,7 @@
       "userLevel": 2000,
       "user": "爱玩机官方免云盘仓库，应用开发者备份（搬运）"
     },
-    {
-      "modulePkg": "SkbA",
-      "moduleName": "NoStorageRestrict-S",
-      "versionName": "v1",
-      "versionCode": 1,
-      "description": "Disables the restriction of not being able to select certain folders (like downloads\/sdcard) when prompted by apps（Android12）",
-      "fileSize": 27293,
-      "author": "爱玩机备用仓库，版权持有",
-      "fileUrl": "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/magisk/NoStorageRestrict-S_SkbA.zip",
-      "updatedAt": "2023-02-28 13:05:41",
-      "isMagisk": true,
-      "userLevel": 2000,
-      "user": "爱玩机官方免云盘仓库，应用开发者备份（搬运）"
-    },
+
     {
       "modulePkg": "microg_installer",
       "moduleName": "microG Installer Revived",
@@ -15041,7 +15028,7 @@
     },
     {
       "modulePkg": "SkbA",
-      "moduleName": "NoStorageRestrict-S",
+      "moduleName": "NoStorageRestrict-S（解除data限制_）",
       "versionName": "v1",
       "versionCode": 1,
       "description": "Disables the restriction of not being able to select certain folders (like downloads\/sdcard) when prompted by apps（Android12）",

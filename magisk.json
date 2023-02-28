@@ -3462,20 +3462,6 @@
       "user": "爱玩机官方免云盘仓库，应用开发者备份（搬运）"
     },
     {
-      "modulePkg": "VolteEnablerforG8V50.zip_VolteEnabler for G8V50.zip-1.zip",
-      "moduleName": "VolteEnablerforG8V50.zip_VolteEnabler for G8V50.zip-1.zip",
-      "versionName": "",
-      "versionCode": 0,
-      "description": "解析module信息异常：\njava.lang.NullPointerException: entry",
-      "fileSize": 1725116,
-      "author": "爱玩机备用仓库，版权持有",
-      "fileUrl": "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/magisk/VolteEnablerforG8V50.zip_VolteEnabler for G8V50.zip-1.zip",
-      "updatedAt": "2023-02-28 12:44:50",
-      "isMagisk": true,
-      "userLevel": 2000,
-      "user": "爱玩机官方免云盘仓库，应用开发者备份（搬运）"
-    },
-    {
       "modulePkg": "vivo_Negative_optimization",
       "moduleName": "vivo干掉负优化",
       "versionName": "1.5",
@@ -3483,7 +3469,7 @@
       "description": "GW是云控，FuntouchUIEngine算是负优化，游戏魔盒破解版是可以解锁隐藏功能",
       "fileSize": 26066800,
       "author": "爱玩机备用仓库，版权持有",
-      "fileUrl": "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/magisk/vivo干掉负优化_vivo_Negative_optimization-1.zip",
+      "fileUrl": "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/magisk/vivo干掉负优化_vivo_Negative_optimization.zip",
       "updatedAt": "2023-02-28 12:44:52",
       "isMagisk": true,
       "userLevel": 2000,
@@ -3877,20 +3863,6 @@
       "author": "爱玩机备用仓库，版权持有",
       "fileUrl": "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/magisk/Enableskiavk+_skiavk.zip",
       "updatedAt": "2023-02-28 12:48:34",
-      "isMagisk": true,
-      "userLevel": 2000,
-      "user": "爱玩机官方免云盘仓库，应用开发者备份（搬运）"
-    },
-    {
-      "modulePkg": "PixelPhoto",
-      "moduleName": "PixelPhoto",
-      "versionName": "v1",
-      "versionCode": 50,
-      "description": "Pixel无限容量原画质",
-      "fileSize": 10660,
-      "author": "爱玩机备用仓库，版权持有",
-      "fileUrl": "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/magisk/PixelPhoto_PixelPhoto-1.zip",
-      "updatedAt": "2023-02-28 12:48:41",
       "isMagisk": true,
       "userLevel": 2000,
       "user": "爱玩机官方免云盘仓库，应用开发者备份（搬运）"
@@ -5660,20 +5632,6 @@
       "user": "爱玩机官方免云盘仓库，应用开发者备份（搬运）"
     },
     {
-      "modulePkg": "WeebGAppsonAndroid_WeebGApps.zip",
-      "moduleName": "WeebGAppsonAndroid_WeebGApps.zip",
-      "versionName": "",
-      "versionCode": 0,
-      "description": "解析module信息异常：\njava.util.zip.ZipException: error in opening zip file",
-      "fileSize": 8802,
-      "author": "爱玩机备用仓库，版权持有",
-      "fileUrl": "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/magisk/WeebGAppsonAndroid_WeebGApps.zip",
-      "updatedAt": "2023-02-28 12:47:05",
-      "isMagisk": true,
-      "userLevel": 2000,
-      "user": "爱玩机官方免云盘仓库，应用开发者备份（搬运）"
-    },
-    {
       "modulePkg": "zipsigner",
       "moduleName": "ZipSigner & Zip for Android NDK",
       "versionName": "3.0",
@@ -6453,20 +6411,6 @@
       "author": "爱玩机备用仓库，版权持有",
       "fileUrl": "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/magisk/COW_COW.zip",
       "updatedAt": "2023-02-28 12:52:08",
-      "isMagisk": true,
-      "userLevel": 2000,
-      "user": "爱玩机官方免云盘仓库，应用开发者备份（搬运）"
-    },
-    {
-      "modulePkg": "vivo干掉负优化_vivo_Negative_optimization.zip",
-      "moduleName": "vivo干掉负优化_vivo_Negative_optimization.zip",
-      "versionName": "",
-      "versionCode": 0,
-      "description": "解析module信息异常：\njava.util.zip.ZipException: error in opening zip file",
-      "fileSize": 4788372,
-      "author": "爱玩机备用仓库，版权持有",
-      "fileUrl": "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/magisk/vivo干掉负优化_vivo_Negative_optimization.zip",
-      "updatedAt": "2023-02-28 12:44:40",
       "isMagisk": true,
       "userLevel": 2000,
       "user": "爱玩机官方免云盘仓库，应用开发者备份（搬运）"

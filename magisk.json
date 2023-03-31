@@ -858,20 +858,6 @@
       "user": "爱玩机官方免云盘仓库，应用开发者备份（搬运）"
     },
     {
-      "modulePkg": "Volte-Pixel",
-      "moduleName": "Volte-Pixel",
-      "versionName": "v2",
-      "versionCode": 12,
-      "description": "为Pixel手机开启Volte（电信）二改每亩",
-      "fileSize": 31121,
-      "author": "爱玩机备用仓库，版权持有",
-      "fileUrl": "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/main/magisk/Volte-Pixel_Volte-Pixel.zip",
-      "updatedAt": "2023-03-31 11:45:48",
-      "isMagisk": true,
-      "userLevel": 2000,
-      "user": "爱玩机官方免云盘仓库，应用开发者备份（搬运）"
-    },
-    {
       "modulePkg": "op11_120",
       "moduleName": "一加11全局120",
       "versionName": "0107",

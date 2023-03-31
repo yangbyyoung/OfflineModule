@@ -2468,20 +2468,6 @@
       "user": "爱玩机官方免云盘仓库，应用开发者备份（搬运）"
     },
     {
-      "modulePkg": "me.lee.adaway",
-      "moduleName": "AdAway",
-      "versionName": "1.0.2",
-      "versionCode": 102,
-      "description": "微博、抖音、快手、TikTok、小红书、头条增强模块!",
-      "fileSize": 1989783,
-      "author": "爱玩机备用仓库，版权持有",
-      "fileUrl": "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/xposed/AdAway_me.lee.adaway.apk",
-      "updatedAt": "2023-02-28 12:33:58",
-      "isMagisk": false,
-      "userLevel": 2000,
-      "user": "爱玩机官方免云盘仓库，应用开发者备份（搬运）"
-    },
-    {
       "modulePkg": "com.jy.xposed.web",
       "moduleName": "你才长按复制访问",
       "versionName": "1.0.3",

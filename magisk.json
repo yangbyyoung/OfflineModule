@@ -16944,20 +16944,6 @@
       "user": "爱玩机官方免云盘仓库，应用开发者备份（搬运）"
     },
     {
-      "modulePkg": "Rulong_Wlan_Boost",
-      "moduleName": "Rulong Wlan_Boost*",
-      "versionName": "21.9.25",
-      "versionCode": 1,
-      "description": "该模块隶属于Rulong Boost*加速项目.该补丁由OLX Team所有！输出日志/data/media/0/Rulong文件夹！",
-      "fileSize": 1238049,
-      "author": "爱玩机备用仓库，版权持有",
-      "fileUrl": "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/magisk/RulongWlan_Boost_Rulong_Wlan_Boost.zip",
-      "updatedAt": "2023-02-28 13:05:56",
-      "isMagisk": true,
-      "userLevel": 2000,
-      "user": "爱玩机官方免云盘仓库，应用开发者备份（搬运）"
-    },
-    {
       "modulePkg": "NLSound",
       "moduleName": "NLSound",
       "versionName": "v2.6 STABLE",
@@ -18003,20 +17989,6 @@
       "author": "爱玩机备用仓库，版权持有",
       "fileUrl": "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/magisk/OnePlus10Pro_OnePlus.zip",
       "updatedAt": "2023-02-28 13:06:29",
-      "isMagisk": true,
-      "userLevel": 2000,
-      "user": "爱玩机官方免云盘仓库，应用开发者备份（搬运）"
-    },
-    {
-      "modulePkg": "Rulong_ZhuLong",
-      "moduleName": "Rulong Boost*_烛龙_Clang",
-      "versionName": "22.1.21",
-      "versionCode": 1,
-      "description": "该模块为Rulong Boost*加速项目.该补丁由OLX Team所有！请勿修改任何文件的文件名，请给予Rulong_Set_Root权限，输出日志/cache/Rulong文件夹！",
-      "fileSize": 5745502,
-      "author": "爱玩机备用仓库，版权持有",
-      "fileUrl": "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/magisk/RulongBoost_烛龙_Clang_Rulong_ZhuLong.zip",
-      "updatedAt": "2023-02-28 13:06:30",
       "isMagisk": true,
       "userLevel": 2000,
       "user": "爱玩机官方免云盘仓库，应用开发者备份（搬运）"

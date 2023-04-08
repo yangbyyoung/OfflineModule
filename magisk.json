@@ -11064,20 +11064,6 @@
       "user": "爱玩机官方免云盘仓库，应用开发者备份（搬运）"
     },
     {
-      "modulePkg": "PROTECT_BLOCK",
-      "moduleName": "SECURITY OF PROTECT_BLOCK",
-      "versionName": "v2.1",
-      "versionCode": 210,
-      "description": "通过xxx原理，在开机后的90s后开启保护，防止块设备写入防止格机，开机后需手动运行应用和使用手机功能，以便于精确地对块设备进行保护，可自行添加排除保护黑名单。",
-      "fileSize": 2501409,
-      "author": "爱玩机备用仓库，版权持有",
-      "fileUrl": "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/magisk/SECURITYOFPROTECT_BLOCK_PROTECT_BLOCK.zip",
-      "updatedAt": "2023-02-28 13:02:18",
-      "isMagisk": true,
-      "userLevel": 2000,
-      "user": "爱玩机官方免云盘仓库，应用开发者备份（搬运）"
-    },
-    {
       "modulePkg": "RamBooster",
       "moduleName": "内存进化lite",
       "versionName": "v1.6ultra",

@@ -3182,20 +3182,6 @@
       "user": "爱玩机官方免云盘仓库，应用开发者备份（搬运）"
     },
     {
-      "modulePkg": "zw_fileclear",
-      "moduleName": "FileClear for ZW",
-      "versionName": "5.6",
-      "versionCode": 20220908,
-      "description": "一个全自动进行深度垃圾清理、广告毒瘤(含腾讯X5内核)屏蔽、系统优化加速的模块；具体清理和优化项目详见j11.sh和j2.sh文件的注释！！【模块构架】j11.sh是深度垃圾清理脚本文件，每5天的清晨5点执行；j2.sh是开机优化脚本文件(来自酷安@水龙)；startclear.sh是轻度垃圾清理脚本文件，每3小时进行一次进程清理+空间回收，每12小时进行一次进程清理+空间回收+轻度垃圾清理；root是Crond服务配置文件，用于定时任务的管理。【清理原理】通过文件(夹)名+通配符，全手机搜索垃圾文件、屏蔽广告毒瘤；比如搜索清理*.backup、*cache*、*.log文件(夹)，搜索屏蔽*_ad、*_ad_*、app_ad广告文件夹。【已知问题，非Bug，不做修复】1、模块屏蔽.umeng、umeng_it.cache等友盟系广告毒瘤文件夹(后台搜集、上传用户隐私)，导致植入该毒瘤的APP崩溃闪退，其逻辑就是“不允许APP广告、不允许APP搜集用户隐私，就不允许用户使用”；2、破解卡米不完整、SELinux是强制模式(Enforcing)，极可能导致APP崩溃闪退，请自行彻底破解卡米和关闭SELinux(或转为“宽容模式”)；3、因为清理太彻底，一些APP、小程序会出现白块、白图标、白图片，其联网后会重新下载、缓存这些文件，请安心等待片刻。【注意】1、因搜索策略异于常用清理APP，本模块清理范围、效果显著优于各大清理软件，但也因此可能导致个别APP崩溃闪退，需用户自己排查和修改模块！！！2、模块安装后自动在后台(定时)运行，不需设置、不需手动执行；3、模块运行情况、清理结果等保存在SD卡根目录“FileClear_zw_*.txt”文件中；4、遇到问题，请先自行处理，如处理不了，请先做初步测试和排查，在酷安跟帖反馈(详细描述问题+初步排查详情+自己推测结论+日志文件)。2022-03-23：再次尝试屏蔽友盟.umeng系毒瘤，将广告毒瘤屏蔽操作前移；2022-09-08：梳理清理规则。",
-      "fileSize": 2077843,
-      "author": "爱玩机备用仓库，版权持有",
-      "fileUrl": "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/magisk/FileClearforZW_zw_fileclear.zip",
-      "updatedAt": "2023-02-28 12:38:51",
-      "isMagisk": true,
-      "userLevel": 2000,
-      "user": "爱玩机官方免云盘仓库，应用开发者备份（搬运）"
-    },
-    {
       "modulePkg": "MagiskHelperByXayah",
       "moduleName": "防止MIUI检测更新",
       "versionName": "1.0",
@@ -17023,20 +17009,6 @@
       "author": "爱玩机备用仓库，版权持有",
       "fileUrl": "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/magisk/智能DNS3.1_DNSS.zip",
       "updatedAt": "2023-02-28 13:07:41",
-      "isMagisk": true,
-      "userLevel": 2000,
-      "user": "爱玩机官方免云盘仓库，应用开发者备份（搬运）"
-    },
-    {
-      "modulePkg": "Yinxin_SL810",
-      "moduleName": "清理垃圾节能版",
-      "versionName": "v1.4.0",
-      "versionCode": 0,
-      "description": "保持一个干净的设备根目录，配置文件地址：/sdcard/Android/Yixin/",
-      "fileSize": 663517,
-      "author": "爱玩机备用仓库，版权持有",
-      "fileUrl": "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master/magisk/清理垃圾节能版_Yinxin_SL810.zip",
-      "updatedAt": "2023-02-28 13:06:39",
       "isMagisk": true,
       "userLevel": 2000,
       "user": "爱玩机官方免云盘仓库，应用开发者备份（搬运）"

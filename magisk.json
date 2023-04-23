@@ -2,7 +2,7 @@
   "syncUrl": true,
   "headerUrl": "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master",
   "backupUrl": "https://gitea.com/yangbyyoung/OfflineModule/raw/branch/master",
-  "modules\\": [
+  "modules": [
     {
       "modulePkg": "zygisk_lsposed",
       "moduleName": "Zygisk - LSPosed",

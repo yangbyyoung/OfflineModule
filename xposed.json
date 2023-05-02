@@ -1236,20 +1236,6 @@
       "user": "爱玩机官方免云盘仓库，应用开发者备份（搬运）"
     },
     {
-      "modulePkg": "com.moon.killmoduleplus",
-      "moduleName": "KModule",
-      "versionName": "2.7.30",
-      "versionCode": 21,
-      "description": "！！！开发不易请支持正版！！！         n         n应用破解-勾选应用         n[SKY◈Ray◈澪◈嗷呜◈小樱桃◈温柔] [0.10.0 (198589)]         n[VMOS Pro] [推荐 2.7.4 (20704)]         n[植物大战僵尸2(32位)] [2.9.4(1230)]         n[Scene5] [6.0.0 (202208221)]         n[Fake Location] [1.3.1.6 (1569)]         n[快连 VPN] [2.17.16 (8947)] [无限重置]         n[DailyTask] [2.51.0701 (80)]         n[佛跳墙] [2.6.5 (65)]         n[熊猫加速器] [4.2.2~4.2.5 (422~425)]         n[蜜蜂加速器] [3.3.1 (6005320)]         n[虫虫钢琴] [3.8.2 (3080200)]         n[巧影] [5.0.7.21440.CZ (21440)]         n[乐秀视频剪辑] [9.2.6 cn (2688)]         n[搜图神器] [4.4.7 (447)]         n[ES文件浏览器] [4.2.5.2 (10123)]         n[鲨鱼记账] [3.45.3 (217)]         n[爱剪辑] [63.8 (152)]         n[轻颜相机] [3.3.8 (426)]         n[看漫画] [3.5.9 (2021060923)] [Vip|付费|抢先]         n[MindMaster思维导图] [3.0.12 (86)] [本地Vip|可分享]         n[开发助手] [6.4.4-cs (644)]         n[图凌] [3.4.4.2 (72)] [8K图片下载]         n[分身多开] [15.5 (165)]         n[双开助手] [7.5.6 (816)]         n[超级教练] [5.2.2 (230)] [一些VIP功能]         n[Android开发工具箱] [2.8.7 (151)]         n[存储空间清理] [4.10.4 (172)]         n[次元壁纸] [2.4.5 (66)]         n[清浊] [1.7.5 (76)]         n[SmileSoft-息屏显示] [2.6.16 (2616)]         n[轻启动] [2.19.0 (21900)]         n         nQQ模块破解-勾选QQ         n[HentaiQ] [1.5 (8)]         n[ColorQQ2] [1.4.4.1 (51)]         n[QQ复读机] [8.9.0 (付费版)] [关闭检测]         n         n抖音模块破解-勾选抖音         n[长江七号] [2.36 (59)]         n         n以上版本通过测试         n其它版本自行测试         n         n！！！开发不易请支持正版！！！",
-      "fileSize": 3205753,
-      "author": "应用官方备用仓库（仅搬运）",
-      "fileUrl": "https://raw.githubusercontent.com/yangbyyoung/OfflineModule/master/xposed/KModule_com.moon.killmoduleplus.apk",
-      "updatedAt": "2023-02-28 12:31:39",
-      "isMagisk": false,
-      "userLevel": 2000,
-      "user": "爱玩机官方免云盘仓库，应用开发者备份（搬运）"
-    },
-    {
       "modulePkg": "com.huanchengfly.miui.checker",
       "moduleName": "MIUILevelChecker",
       "versionName": "1.0.0",

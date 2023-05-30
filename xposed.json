@@ -1042,8 +1042,8 @@
     {
       "modulePkg": "com.modify.installer",
       "moduleName": "爱玩机-安装器接管",
-      "versionName": "15.0",
-      "versionCode": 15,
+      "versionName": "22.0",
+      "versionCode": 22,
       "description": "强制修改系统的默认安装器n仅作用域系统自带安装器（不生效勾选系统框架）",
       "fileSize": 17249,
       "author": "应用官方备用仓库（仅搬运）",

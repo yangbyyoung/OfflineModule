@@ -62,8 +62,8 @@
     {
       "modulePkg": "com.intent.get",
       "moduleName": "爱玩机-快捷捕抓增强",
-      "versionName": "8.0",
-      "versionCode": 8,
+      "versionName": "9.0",
+      "versionCode": 9,
       "description": "尝试获取intent传值信息，搭配使用爱玩机工具箱来创建大量快捷方式",
       "fileSize": 2117495,
       "author": "应用官方备用仓库（仅搬运）",

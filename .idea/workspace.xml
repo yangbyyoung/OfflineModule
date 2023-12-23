@@ -4,78 +4,8 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52022c80-7ff6-4300-ad46-32ea94bceffe" name="更改" comment="更新版本库为2023年10月">
-      <change beforePath="$PROJECT_DIR$/magisk.json" beforeDir="false" afterPath="$PROJECT_DIR$/magisk.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magisk/AD_hosts_AD_lite.zip" beforeDir="false" afterPath="$PROJECT_DIR$/magisk/AD_hosts_AD_lite.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magisk/AdvancedChargingControllerACC_acc.zip" beforeDir="false" afterPath="$PROJECT_DIR$/magisk/AdvancedChargingControllerACC_acc.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magisk/CleanerHooks_zygisk_cleanerhooks.zip" beforeDir="false" afterPath="$PROJECT_DIR$/magisk/CleanerHooks_zygisk_cleanerhooks.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magisk/FEASEnabler_Feasenabler.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/magisk/Haptic_RE振动模块_Haptic_RE.zip" beforeDir="false" afterPath="$PROJECT_DIR$/magisk/Haptic_RE振动模块_Haptic_RE.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magisk/Hi-ResAudioEnabler_HiResAudio.zip" beforeDir="false" afterPath="$PROJECT_DIR$/magisk/Hi-ResAudioEnabler_HiResAudio.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magisk/Pixelify_Pixelify.zip" beforeDir="false" afterPath="$PROJECT_DIR$/magisk/Pixelify_Pixelify.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magisk/Shamiko_zygisk_shamiko.zip" beforeDir="false" afterPath="$PROJECT_DIR$/magisk/Shamiko_zygisk_shamiko.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magisk/UniversalGMSDoze_universal-gms-doze.zip" beforeDir="false" afterPath="$PROJECT_DIR$/magisk/UniversalGMSDoze_universal-gms-doze.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magisk/Zygisk-ClipboardWhitelist_zygisk_clipboard_whitelist.zip" beforeDir="false" afterPath="$PROJECT_DIR$/magisk/Zygisk-ClipboardWhitelist_zygisk_clipboard_whitelist.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magisk/Zygisk-Mi-Freeform_zygisk_mi_freeform.zip" beforeDir="false" afterPath="$PROJECT_DIR$/magisk/Zygisk-Mi-Freeform_zygisk_mi_freeform.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magisk/Zygisk-Sui_zygisk-sui.zip" beforeDir="false" afterPath="$PROJECT_DIR$/magisk/Zygisk-Sui_zygisk-sui.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magisk/Zygisk-指纹支付-QQ_zygisk-module-xfingerprint-pay-qq.zip" beforeDir="false" afterPath="$PROJECT_DIR$/magisk/Zygisk-指纹支付-QQ_zygisk-module-xfingerprint-pay-qq.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magisk/Zygisk-指纹支付-云闪付_zygisk-module-xfingerprint-pay-unionpay.zip" beforeDir="false" afterPath="$PROJECT_DIR$/magisk/Zygisk-指纹支付-云闪付_zygisk-module-xfingerprint-pay-unionpay.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magisk/Zygisk-指纹支付-微信_zygisk-module-xfingerprint-pay-wechat.zip" beforeDir="false" afterPath="$PROJECT_DIR$/magisk/Zygisk-指纹支付-微信_zygisk-module-xfingerprint-pay-wechat.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magisk/Zygisk-指纹支付-支付宝_zygisk-module-xfingerprint-pay-alipay.zip" beforeDir="false" afterPath="$PROJECT_DIR$/magisk/Zygisk-指纹支付-支付宝_zygisk-module-xfingerprint-pay-alipay.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magisk/Zygisk-指纹支付-淘宝_zygisk-module-xfingerprint-pay-taobao.zip" beforeDir="false" afterPath="$PROJECT_DIR$/magisk/Zygisk-指纹支付-淘宝_zygisk-module-xfingerprint-pay-taobao.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magisk/ZygiskNext_zygisksu.zip" beforeDir="false" afterPath="$PROJECT_DIR$/magisk/ZygiskNext_zygisksu.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magisk/xaga＆rubens音效_XagaSoundBoostTest.zip" beforeDir="false" afterPath="$PROJECT_DIR$/magisk/xaga＆rubens音效_XagaSoundBoostTest.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magisk/去广告_GGAT_10007.zip" beforeDir="false" afterPath="$PROJECT_DIR$/magisk/去广告_GGAT_10007.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magisk/干翻云控_MCC.zip" beforeDir="false" afterPath="$PROJECT_DIR$/magisk/干翻云控_MCC.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magisk/搜索进化＋本地OCR_SearchEVO.zip" beforeDir="false" afterPath="$PROJECT_DIR$/magisk/搜索进化＋本地OCR_SearchEVO.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magisk/非对称双扬音量平衡识别耳机_Automatic_balancing_of_Dual_Loudspeakers.zip" beforeDir="false" afterPath="$PROJECT_DIR$/magisk/非对称双扬音量平衡识别耳机_Automatic_balancing_of_Dual_Loudspeakers.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed.json" beforeDir="false" afterPath="$PROJECT_DIR$/xposed.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/1THPro_com.unexpected.th.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/1THPro_com.unexpected.th.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/AppRetention_Com.HChen.Hook.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/AppRetention_Com.HChen.Hook.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/Cemiuiler_com.sevtinge.cemiuiler.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/Cemiuiler_com.sevtinge.cemiuiler.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/Chihiro_me.dannyit.wechat.chum.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/Chihiro_me.dannyit.wechat.chum.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/Freedom+_com.freegang.fplus.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/Freedom+_com.freegang.fplus.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/FunPanel_have.fun.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/FunPanel_have.fun.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/HMSPush_one.yufz.hmspush.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/HMSPush_one.yufz.hmspush.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/HookVip_Hook.JiuWu.Xp.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/HookVip_Hook.JiuWu.Xp.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/LyricsGetter_cn.lyric.getter.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/LyricsGetter_cn.lyric.getter.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/MIUI原生通知图标_com.fankes.miui.notify.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/MIUI原生通知图标_com.fankes.miui.notify.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/MaskWechat_com.lu.wxmask.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/MaskWechat_com.lu.wxmask.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/MaxFreeForm_com.yifeplayte.maxfreeform.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/MaxFreeForm_com.yifeplayte.maxfreeform.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/MaxMiPad_com.yifeplayte.maxmipadinput.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/MaxMiPad_com.yifeplayte.maxmipadinput.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/MiuiExtra_moe.chenxy.miuiextra.apk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/ModemPro_com.weverses.modempro.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/ModemPro_com.weverses.modempro.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/NGA净化_com.chrxw.purenga.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/NGA净化_com.chrxw.purenga.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/NoActive_cn.myflv.noactive.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/NoActive_cn.myflv.noactive.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/QStory_lin.xposed.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/QStory_lin.xposed.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/Serendipity_com.demo.serendipity.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/Serendipity_com.demo.serendipity.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/TMoe_cc.ioctl.tmoe.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/TMoe_cc.ioctl.tmoe.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/Tarnhelm_cn.ac.lz233.tarnhelm.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/Tarnhelm_cn.ac.lz233.tarnhelm.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/Thanox_github.tornaco.android.thanos.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/Thanox_github.tornaco.android.thanos.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/TiktokHook_xdc.sohoad.tiktokhook.ms.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/TiktokHook_xdc.sohoad.tiktokhook.ms.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/XposedSmsCode_com.github.tianma8023.xposed.smscode.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/XposedSmsCode_com.github.tianma8023.xposed.smscode.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/wxrecordread_com.coderpwh.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/wxrecordread_com.coderpwh.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/上帝模式_com.viewblocker.jrsen.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/上帝模式_com.viewblocker.jrsen.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/哔哩发评反诈_icu.freedomIntrovert.biliSendCommAntifraud.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/哔哩发评反诈_icu.freedomIntrovert.biliSendCommAntifraud.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/墨-息_cn.aodlyric.xiaowine.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/墨-息_cn.aodlyric.xiaowine.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/墨-状态栏歌词_statusbar.lyric.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/墨-状态栏歌词_statusbar.lyric.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/墨•桌_cn.fuckhome.xiaowine.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/墨•桌_cn.fuckhome.xiaowine.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/异常跟踪_com.fankes.apperrorstracking.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/异常跟踪_com.fankes.apperrorstracking.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/微博猪手_com.skyhand.sinahelper.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/微博猪手_com.skyhand.sinahelper.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/指纹支付_com.surcumference.fingerprintpay.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/指纹支付_com.surcumference.fingerprintpay.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/星旅_star.sky.voyager.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/星旅_star.sky.voyager.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/淘饭饭_com.jy.taofanfan.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/淘饭饭_com.jy.taofanfan.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/源计划_com.variable.apkhook.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/源计划_com.variable.apkhook.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/禁用FLAG_SECURE_io.github.lsposed.disableflagsecure.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/禁用FLAG_SECURE_io.github.lsposed.disableflagsecure.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/签名助手_cn.xihan.sign.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/签名助手_cn.xihan.sign.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/米客_name.monwf.customiuizer.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/米客_name.monwf.customiuizer.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/网抑叼毛云_com.blanke.diaomao163.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/网抑叼毛云_com.blanke.diaomao163.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/网络民工_com.hello.worker.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/网络民工_com.hello.worker.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/联璧模块_club.youppgd.adhook.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/联璧模块_club.youppgd.adhook.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/要妳命三千_cn.kwaiching.hook.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/要妳命三千_cn.kwaiching.hook.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/逗音小能手_com.rong862.bear.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/逗音小能手_com.rong862.bear.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/道道道_vn.kwaiching.tao.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/道道道_vn.kwaiching.tao.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xposed/长江九号_com.hello.demo.apk" beforeDir="false" afterPath="$PROJECT_DIR$/xposed/长江九号_com.hello.demo.apk" afterDir="false" />
+    <list default="true" id="52022c80-7ff6-4300-ad46-32ea94bceffe" name="更改" comment="更新版本库为2023年11月">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,19 +26,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "com.google.services.firebase.aqiPopupShown": "true",
-    "last_opened_file_path": "L:/OfflineModule",
-    "settings.editor.selected.configurable": "AndroidSdkUpdater",
-    "two.files.diff.last.used.file": "L:/OfflineModule/xposed.json"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;L:/OfflineModule&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;L:/OfflineModule/xposed.json&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="L:\OfflineModule" />
@@ -219,7 +149,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699173358130</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="更新版本库为2023年11月">
+      <option name="closed" value="true" />
+      <created>1701507091535</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1701507091535</updated>
+    </task>
+    <task id="LOCAL-00015" summary="更新版本库为2023年11月">
+      <option name="closed" value="true" />
+      <created>1701507749440</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1701507749440</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -238,6 +184,7 @@
     <MESSAGE value="更新版本库为2023年8月" />
     <MESSAGE value="更新版本库为2023年9月" />
     <MESSAGE value="更新版本库为2023年10月" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新版本库为2023年10月" />
+    <MESSAGE value="更新版本库为2023年11月" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新版本库为2023年11月" />
   </component>
 </project>
